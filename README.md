@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Syed Muhammad Umar - Full-Stack, AI, Robotics"/>
+<img src="banner.svg" width="100%" alt="Syed Muhammad Umar - Full-Stack, AI, Robotics"/>
 
-<img src="assets/cyberpunk-coder.svg" width="100%" alt="cyberpunk coder at his computer"/>
+<img src="cyberpunk-coder.svg" width="100%" alt="cyberpunk coder at his computer"/>
 
 </div>
 
-<img src="assets/bio.svg" width="100%" alt="Bio"/>
+<img src="bio.svg" width="100%" alt="Bio"/>
 
-<img src="assets/summary.svg" width="100%" alt="AI-generated summary"/>
+<img src="summary.svg" width="100%" alt="AI-generated summary"/>
 
-<img src="assets/stack.svg" width="100%" alt="Learning stack"/>
+<img src="stack.svg" width="100%" alt="Learning stack"/>
 
-<img src="assets/goals.svg" width="100%" alt="Learning goals"/>
+<img src="goals.svg" width="100%" alt="Learning goals"/>
 
-<img src="assets/projects.svg" width="100%" alt="Projects"/>
+<img src="projects.svg" width="100%" alt="Projects"/>
 
-<img src="assets/repos.svg" width="100%" alt="Repositories"/>
+<img src="repos.svg" width="100%" alt="Repositories"/>
 
 <div align="center">
 
@@ -29,11 +29,11 @@ When you have repos to show, add pinned cards here, for example:
 <a href="https://github.com/syedmuhammadumar-eng/YOUR_REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syedmuhammadumar-eng&repo=YOUR_REPO&theme=dark&bg_color=040b1a&title_color=39ff14&icon_color=3fb4ff&text_color=d6ecff&border_color=39ff14"/></a>
 -->
 
-<img src="assets/roadmap.svg" width="100%" alt="Roadmap"/>
+<img src="roadmap.svg" width="100%" alt="Roadmap"/>
 
-<img src="assets/status.svg" width="100%" alt="Current status"/>
+<img src="status.svg" width="100%" alt="Current status"/>
 
-<img src="assets/connect.svg" width="100%" alt="Connect"/>
+<img src="connect.svg" width="100%" alt="Connect"/>
 
 <div align="center">
 
