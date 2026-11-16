@@ -1,127 +1,224 @@
-<!-- Replace YOUR_GITHUB_USERNAME, YOUR NAME and all [BRACKETED] text. -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00cc,50:7b2ff7,100:00e5ff&height=260&section=header&text=YOUR%20NAME&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%E2%9A%A1%20Developer%20%C2%B7%20Builder%20%C2%B7%20Creator%20%E2%9A%A1&descSize=20&descAlignY=62" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05050a,40:1a0638,70:3d0a5c,100:05050a&height=260&section=header&text=SYED%20MUHAMMAD%20UMAR&fontSize=50&fontColor=00e5ff&animation=twinkling&fontAlignY=40&desc=%5B%20FULL-STACK%20%C2%B7%20AI%20%C2%B7%20ROBOTICS%20%5D&descColor=ff2e97&descSize=20&descAlignY=62" width="100%" alt="header"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%3E+Initializing+developer.exe...;%3E+Building+cool+things+with+code;%3E+Turning+coffee+into+software+%E2%98%95;%3E+Open+to+collaborate+%F0%9F%9A%80" alt="typing"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-FOLLOWERS-ff00cc?style=for-the-badge&labelColor=0d0221"/><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=7b2ff7&labelColor=0d0221&label="/>
-<img src="https://img.shields.io/badge/-STARS-7b2ff7?style=for-the-badge&labelColor=0d0221"/><img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00e5ff&labelColor=0d0221&label="/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=ff00cc&labelColor=0d0221&label=VIEWS"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=FCEE0A&center=true&vCenter=true&width=760&height=60&lines=%3E+Booting+developer+profile...;%3E+Java+%C2%B7+Spring+Boot+%C2%B7+System+Design;%3E+Training+neural+nets+%26+building+robots;%3E+Status%3A+ONLINE+%F0%9F%9F%A2" alt="typing"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00e5ff&height=3&section=header" width="100%"/>
+<img src="cyberpunk-coder.svg" width="100%" alt="cyberpunk coder at his computer"/>
 
-## 🧠 `whoami`
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00e5ff?style=for-the-badge&labelColor=05050a"/>
+<img src="https://img.shields.io/github/followers/syedmuhammadumar-eng?style=for-the-badge&color=ff2e97&labelColor=05050a&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/syedmuhammadumar-eng?style=for-the-badge&color=fcee0a&labelColor=05050a&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=syedmuhammadumar-eng&style=for-the-badge&color=7b2ff7&labelColor=05050a&label=VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff2e97,100:00e5ff&height=3&section=header" width="100%"/>
+
+## 🧬 `01 // BIO`
 
 ```bash
-$ cat about.txt
+$ cat /home/syedmuhammadumar-eng/bio.txt
 
-  name       →  YOUR NAME
-  role       →  [Full-Stack Developer / AI Engineer / ...]
-  location   →  [City, Country] 🌍
-  focus      →  [Web apps · APIs · Automation · AI]
-  currently  →  Building [project name]
-  learning   →  [Rust / Cloud / Machine Learning]
-  hobbies    →  [Gaming · Music · Photography]
-  motto      →  "Ship it. Learn. Improve. Repeat."
+  name        →  Syed Muhammad Umar
+  role        →  Aspiring Full-Stack Developer & AI Engineer
+  location    →  [City, Country] 🌍
+  education   →  [Your degree / university / self-taught]
+  languages   →  Java · Python · SQL · [more]
+  interests   →  Backend systems · Machine Learning · Robotics
+  hobbies     →  [Gaming · Music · Sci-fi · Gadgets]
+  motto       →  "Learn it. Build it. Break it. Ship it."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:ff00cc&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:ff2e97,100:fcee0a&height=3&section=header" width="100%"/>
 
-## ⚡ Tech Arsenal
+## 🤖 `02 // AI-GENERATED SUMMARY`
 
-<div align="center">
+> **`[ ANALYSIS COMPLETE ]`**
+>
+> **Syed Muhammad Umar** is a driven developer building a strong foundation in **Java full-stack development with Spring Boot**, while sharpening core engineering skills like **data structures & algorithms** and **system design**. Alongside the backend path, he is exploring **artificial intelligence**, including **machine learning, deep learning and data science** with **NumPy and Pandas**, and is curious about **robotics**, where software meets the physical world.
+>
+> His profile shows a builder's mindset: learn a concept, apply it in a project, and iterate. The goal is to grow into an engineer who can design scalable systems **and** add intelligence to them.
+>
+> <sub>🧠 Summary generated by AI from my profile.</sub>
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff2e97,100:00e5ff&height=3&section=header" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,java,go,rust,php&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,figma&theme=dark" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,firebase&theme=dark" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,vercel&theme=dark" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00e5ff&height=3&section=header" width="100%"/>
-
-## 📊 Stats Dashboard
+## ⚡ `03 // LEARNING STACK`
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff&count_private=true" alt="stats"/>
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=ff00cc&text_color=ffffff" alt="languages"/>
+**☕ Java Full-Stack**
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true&background=0d0221&ring=ff00cc&fire=00e5ff&currStreakLabel=00e5ff" alt="streak"/>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,mysql,postgres,react,html,css,js&theme=dark"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d0221&color=ff00cc&line=7b2ff7&point=00e5ff&area=true&area_color=7b2ff7&hide_border=true&title_color=00e5ff" alt="activity graph" width="95%"/>
+**🧠 AI / ML / Data Science**
+
+<img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,tensorflow,pytorch,jupyter&theme=dark"/>
+
+**🤖 Robotics & Systems**
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino,raspberrypi,linux,docker,git,github,aws&theme=dark"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:ff00cc&height=3&section=header" width="100%"/>
+### 📡 Focus Areas
 
-## 🏆 Trophies
+| Domain | What I'm learning |
+|:--|:--|
+| ☕ **Java Full Stack** | Core Java, Spring Boot, REST APIs, Spring Security, JPA/Hibernate, frontend integration |
+| 🏗️ **System Design** | Scalability, load balancing, caching, databases, microservices, API design |
+| 🧩 **DSA** | Arrays, linked lists, trees, graphs, DP, recursion, problem-solving patterns |
+| 🤖 **AI / Machine Learning** | Supervised and unsupervised learning, model evaluation, feature engineering |
+| 📊 **Data Science** | Data cleaning, analysis and visualization with **NumPy** and **Pandas** |
+| 🧠 **Deep Learning** | Neural networks, CNNs, RNNs, transformers, training and tuning |
+| 🦾 **Robotics** | Sensors, actuators, microcontrollers, control systems, computer vision |
+
+### 🔋 Progress (edit the bars as you grow)
+
+```text
+Java & Spring Boot    ████████░░░░░░░░░░░░  40%
+DSA                   ██████░░░░░░░░░░░░░░  30%
+System Design         ████░░░░░░░░░░░░░░░░  20%
+NumPy & Pandas        ██████░░░░░░░░░░░░░░  30%
+Machine Learning      ████░░░░░░░░░░░░░░░░  20%
+Deep Learning         ██░░░░░░░░░░░░░░░░░░  10%
+Robotics              ██░░░░░░░░░░░░░░░░░░  10%
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:ff2e97,100:fcee0a&height=3&section=header" width="100%"/>
+
+## 🎯 `04 // LEARNING GOALS`
+
+- [ ] 🚀 Build a complete **Spring Boot full-stack app** with authentication, database and deployment
+- [ ] 🧩 Solve **[300+] DSA problems** and learn the major patterns
+- [ ] 🏗️ Design and document **5 real-world systems** (URL shortener, chat app, feed, etc.)
+- [ ] 📊 Complete **3 data analysis projects** using NumPy and Pandas
+- [ ] 🤖 Train and deploy a **machine learning model** as a working API
+- [ ] 🧠 Build a **deep learning project** (image classification or NLP)
+- [ ] 🦾 Create a **robotics project** with sensors and a microcontroller
+- [ ] 🌐 Contribute to **open source**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff2e97,100:00e5ff&height=3&section=header" width="100%"/>
+
+## 🛠️ `05 // PROJECTS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ [Spring Boot Project]</h3>
+      <p>[One line: what it does, e.g. REST API for a task manager with JWT auth.]</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>MySQL</code></p>
+      <a href="https://github.com/syedmuhammadumar-eng/REPO_ONE">⟶ View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 [Data Science Project]</h3>
+      <p>[One line: dataset analyzed and insights found.]</p>
+      <p><code>Python</code> <code>Pandas</code> <code>NumPy</code></p>
+      <a href="https://github.com/syedmuhammadumar-eng/REPO_TWO">⟶ View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 [ML / Deep Learning Project]</h3>
+      <p>[One line: what the model predicts or classifies.]</p>
+      <p><code>Python</code> <code>TensorFlow</code> <code>scikit-learn</code></p>
+      <a href="https://github.com/syedmuhammadumar-eng/REPO_THREE">⟶ View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🦾 [Robotics Project]</h3>
+      <p>[One line: what the robot does.]</p>
+      <p><code>C++</code> <code>Arduino</code> <code>Sensors</code></p>
+      <a href="https://github.com/syedmuhammadumar-eng/REPO_FOUR">⟶ View Repo</a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:ff2e97,100:fcee0a&height=3&section=header" width="100%"/>
+
+## 📂 `06 // REPOSITORIES`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies"/>
+<a href="https://github.com/syedmuhammadumar-eng/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syedmuhammadumar-eng&repo=REPO_ONE&theme=dark&bg_color=0a0a0f&title_color=00e5ff&icon_color=ff2e97&text_color=c9d1d9&border_color=2a1a4a"/></a>
+<a href="https://github.com/syedmuhammadumar-eng/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syedmuhammadumar-eng&repo=REPO_TWO&theme=dark&bg_color=0a0a0f&title_color=00e5ff&icon_color=ff2e97&text_color=c9d1d9&border_color=2a1a4a"/></a>
+
+<a href="https://github.com/syedmuhammadumar-eng/REPO_THREE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syedmuhammadumar-eng&repo=REPO_THREE&theme=dark&bg_color=0a0a0f&title_color=00e5ff&icon_color=ff2e97&text_color=c9d1d9&border_color=2a1a4a"/></a>
+<a href="https://github.com/syedmuhammadumar-eng/REPO_FOUR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=syedmuhammadumar-eng&repo=REPO_FOUR&theme=dark&bg_color=0a0a0f&title_color=00e5ff&icon_color=ff2e97&text_color=c9d1d9&border_color=2a1a4a"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00e5ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff2e97,100:00e5ff&height=3&section=header" width="100%"/>
 
-## 🚀 Featured Projects
+## 📊 `07 // STATS DASHBOARD`
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_ONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_ONE&theme=synthwave&bg_color=0d0221&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff&hide_border=true"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_TWO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_TWO&theme=synthwave&bg_color=0d0221&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff&hide_border=true"/></a>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=syedmuhammadumar-eng&show_icons=true&theme=dark&bg_color=0a0a0f&title_color=00e5ff&icon_color=ff2e97&text_color=c9d1d9&border_color=2a1a4a&count_private=true"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmuhammadumar-eng&layout=donut&theme=dark&bg_color=0a0a0f&title_color=00e5ff&text_color=c9d1d9&border_color=2a1a4a"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_THREE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_THREE&theme=synthwave&bg_color=0d0221&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff&hide_border=true"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_FOUR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_FOUR&theme=synthwave&bg_color=0d0221&title_color=ff00cc&icon_color=00e5ff&text_color=ffffff&hide_border=true"/></a>
+<img src="https://streak-stats.demolab.com?user=syedmuhammadumar-eng&theme=dark&background=0a0a0f&border=2a1a4a&ring=ff2e97&fire=fcee0a&currStreakLabel=00e5ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=00e5ff&dates=8b949e"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedmuhammadumar-eng&bg_color=0a0a0f&color=ff2e97&line=7b2ff7&point=fcee0a&area=true&area_color=7b2ff7&hide_border=true&title_color=00e5ff" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=syedmuhammadumar-eng&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,100:ff00cc&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00e5ff,50:ff2e97,100:fcee0a&height=3&section=header" width="100%"/>
 
-## 🛰️ Currently
+## 🗺️ `08 // ROADMAP`
 
-| 🔥 Working on | 📚 Learning | 🎯 Goal |
+```text
+PHASE 1  ▸  Java + DSA fundamentals, Git, SQL
+PHASE 2  ▸  Spring Boot, REST APIs, security, first full-stack project
+PHASE 3  ▸  System design, microservices, Docker, cloud deployment
+PHASE 4  ▸  Python, NumPy, Pandas, data science projects
+PHASE 5  ▸  Machine learning, deep learning, model deployment
+PHASE 6  ▸  Robotics, sensors, computer vision, final capstone
+```
+
+## 📡 `09 // CURRENT STATUS`
+
+| 🔥 Working on | 📚 Learning | 🎯 Next target |
 |:---:|:---:|:---:|
-| [Project name] | [Technology] | [Big goal for this year] |
+| [Project name] | [Spring Boot / DSA] | [Goal for this month] |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00e5ff&height=3&section=header" width="100%"/>
+## 💬 `10 // FUN FACTS`
 
-## 📡 Connect With Me
+- ⚡ [Something unique about you]
+- 🎧 I code best while listening to [music genre]
+- 🌌 Favorite sci-fi: [movie / anime / game]
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fcee0a,50:ff2e97,100:00e5ff&height=3&section=header" width="100%"/>
+
+## 🔗 `11 // SOCIAL LINKS`
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-ff00cc?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-7b2ff7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-ff2e97?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-7b2ff7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-14171a?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://leetcode.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://kaggle.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1500&color=FF00CC&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+awesome+together" alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&pause=1500&color=00E5FF&center=true&vCenter=true&width=600&lines=%3E+Thanks+for+visiting%2C+netrunner+%E2%9C%A8;%3E+Let's+build+the+future+together" alt="footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:7b2ff7,100:00e5ff&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050a,40:1a0638,70:3d0a5c,100:05050a&height=120&section=footer" width="100%"/>
 
 </div>
